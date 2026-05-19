@@ -45,6 +45,6 @@ Proyek ini adalah aplikasi web untuk memprediksi popularitas lagu di Spotify men
    `http://127.0.0.1:5000/`
 
 ## Tautan Penting
-* **Demo Aplikasi**: [Link Demo Aplikasi (Misal: Heroku/Render/Vercel) ]
+* **Demo Aplikasi**: [https://fadhilahtri.my.id](https://fadhilahtri.my.id)
 * **Laporan Proyek**: [Link Laporan PDF]
 * **Video Presentasi**: [Link Video YouTube]
