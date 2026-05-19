@@ -1,8 +1,8 @@
 # Spotify Popularity Prediction - UTS AI Practicum
 
 ## Informasi Mahasiswa
-* **Nama**: [Nama Mahasiswa]
-* **NIM**: [NIM Mahasiswa]
+* **Nama**: FADHILAH TRI ANUGRAH PUTRA PAMUNGKAS
+* **NIM**: 301240066
 * **Mata Kuliah**: Praktikum Kecerdasan Buatan (Semester Genap 2024/2025)
 * **Program Studi**: Teknik Informatika
 
